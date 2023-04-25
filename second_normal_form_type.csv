@@ -1,0 +1,3045 @@
+pokedex_number,type,ability
+1,grass,Chlorophyll
+1,grass,Overgrow
+1,poison,Chlorophyll
+1,poison,Overgrow
+2,grass,Chlorophyll
+2,grass,Overgrow
+2,poison,Chlorophyll
+2,poison,Overgrow
+3,grass,Chlorophyll
+3,grass,Overgrow
+3,poison,Chlorophyll
+3,poison,Overgrow
+4,fire,Blaze
+4,fire,"Solar Power"
+5,fire,Blaze
+5,fire,"Solar Power"
+6,fire,Blaze
+6,fire,"Solar Power"
+6,flying,Blaze
+6,flying,"Solar Power"
+7,water,"Rain Dish"
+7,water,Torrent
+8,water,"Rain Dish"
+8,water,Torrent
+9,water,"Rain Dish"
+9,water,Torrent
+10,bug,"Run Away"
+10,bug,"Shield Dust"
+11,bug,"Shed Skin"
+12,bug,Compoundeyes
+12,bug,"Tinted Lens"
+12,flying,Compoundeyes
+12,flying,"Tinted Lens"
+13,bug,"Run Away"
+13,bug,"Shield Dust"
+13,poison,"Run Away"
+13,poison,"Shield Dust"
+14,bug,"Shed Skin"
+14,poison,"Shed Skin"
+15,bug,Sniper
+15,bug,Swarm
+15,poison,Sniper
+15,poison,Swarm
+16,flying,"Big Pecks"
+16,flying,"Keen Eye"
+16,flying,"Tangled Feet"
+16,normal,"Big Pecks"
+16,normal,"Keen Eye"
+16,normal,"Tangled Feet"
+17,flying,"Big Pecks"
+17,flying,"Keen Eye"
+17,flying,"Tangled Feet"
+17,normal,"Big Pecks"
+17,normal,"Keen Eye"
+17,normal,"Tangled Feet"
+18,flying,"Big Pecks"
+18,flying,"Keen Eye"
+18,flying,"Tangled Feet"
+18,normal,"Big Pecks"
+18,normal,"Keen Eye"
+18,normal,"Tangled Feet"
+19,dark,Gluttony
+19,dark,Guts
+19,dark,Hustle
+19,dark,Hustle
+19,dark,"Run Away"
+19,dark,"Thick Fat"
+19,normal,Gluttony
+19,normal,Guts
+19,normal,Hustle
+19,normal,Hustle
+19,normal,"Run Away"
+19,normal,"Thick Fat"
+20,dark,Gluttony
+20,dark,Guts
+20,dark,Hustle
+20,dark,Hustle
+20,dark,"Run Away"
+20,dark,"Thick Fat"
+20,normal,Gluttony
+20,normal,Guts
+20,normal,Hustle
+20,normal,Hustle
+20,normal,"Run Away"
+20,normal,"Thick Fat"
+21,flying,"Keen Eye"
+21,flying,Sniper
+21,normal,"Keen Eye"
+21,normal,Sniper
+22,flying,"Keen Eye"
+22,flying,Sniper
+22,normal,"Keen Eye"
+22,normal,Sniper
+23,poison,Intimidate
+23,poison,"Shed Skin"
+23,poison,Unnerve
+24,poison,Intimidate
+24,poison,"Shed Skin"
+24,poison,Unnerve
+25,electric,Lightningrod
+25,electric,Static
+26,electric,Lightningrod
+26,electric,Static
+26,electric,"Surge Surfer"
+26,electric,Lightningrod
+26,electric,Static
+26,electric,"Surge Surfer"
+27,ground,"Sand Rush"
+27,ground,"Sand Veil"
+27,ground,"Slush Rush"
+27,ground,"Snow Cloak"
+27,ice,"Sand Rush"
+27,ice,"Sand Veil"
+27,ice,"Slush Rush"
+27,ice,"Snow Cloak"
+28,ground,"Sand Rush"
+28,ground,"Sand Veil"
+28,ground,"Slush Rush"
+28,ground,"Snow Cloak"
+28,ice,"Sand Rush"
+28,ice,"Sand Veil"
+28,ice,"Slush Rush"
+28,ice,"Snow Cloak"
+29,poison,Hustle
+29,poison,"Poison Point"
+29,poison,Rivalry
+30,poison,Hustle
+30,poison,"Poison Point"
+30,poison,Rivalry
+31,ground,"Poison Point"
+31,ground,Rivalry
+31,ground,"Sheer Force"
+31,poison,"Poison Point"
+31,poison,Rivalry
+31,poison,"Sheer Force"
+32,poison,Hustle
+32,poison,"Poison Point"
+32,poison,Rivalry
+33,poison,Hustle
+33,poison,"Poison Point"
+33,poison,Rivalry
+34,ground,"Poison Point"
+34,ground,Rivalry
+34,ground,"Sheer Force"
+34,poison,"Poison Point"
+34,poison,Rivalry
+34,poison,"Sheer Force"
+35,fairy,"Cute Charm"
+35,fairy,"Friend Guard"
+35,fairy,"Magic Guard"
+36,fairy,"Cute Charm"
+36,fairy,"Magic Guard"
+36,fairy,Unaware
+37,fire,Drought
+37,fire,"Flash Fire"
+37,fire,"Snow Cloak"
+37,fire,"Snow Warning"
+37,ice,Drought
+37,ice,"Flash Fire"
+37,ice,"Snow Cloak"
+37,ice,"Snow Warning"
+38,fire,Drought
+38,fire,"Flash Fire"
+38,fire,"Snow Cloak"
+38,fire,"Snow Warning"
+38,ice,Drought
+38,ice,"Flash Fire"
+38,ice,"Snow Cloak"
+38,ice,"Snow Warning"
+39,fairy,Competitive
+39,fairy,"Cute Charm"
+39,fairy,"Friend Guard"
+39,normal,Competitive
+39,normal,"Cute Charm"
+39,normal,"Friend Guard"
+40,fairy,Competitive
+40,fairy,"Cute Charm"
+40,fairy,Frisk
+40,normal,Competitive
+40,normal,"Cute Charm"
+40,normal,Frisk
+41,flying,Infiltrator
+41,flying,"Inner Focus"
+41,poison,Infiltrator
+41,poison,"Inner Focus"
+42,flying,Infiltrator
+42,flying,"Inner Focus"
+42,poison,Infiltrator
+42,poison,"Inner Focus"
+43,grass,Chlorophyll
+43,grass,"Run Away"
+43,poison,Chlorophyll
+43,poison,"Run Away"
+44,grass,Chlorophyll
+44,grass,Stench
+44,poison,Chlorophyll
+44,poison,Stench
+45,grass,Chlorophyll
+45,grass,"Effect Spore"
+45,poison,Chlorophyll
+45,poison,"Effect Spore"
+46,bug,Damp
+46,bug,"Dry Skin"
+46,bug,"Effect Spore"
+46,grass,Damp
+46,grass,"Dry Skin"
+46,grass,"Effect Spore"
+47,bug,Damp
+47,bug,"Dry Skin"
+47,bug,"Effect Spore"
+47,grass,Damp
+47,grass,"Dry Skin"
+47,grass,"Effect Spore"
+48,bug,Compoundeyes
+48,bug,"Run Away"
+48,bug,"Tinted Lens"
+48,poison,Compoundeyes
+48,poison,"Run Away"
+48,poison,"Tinted Lens"
+49,bug,"Shield Dust"
+49,bug,"Tinted Lens"
+49,bug,"Wonder Skin "
+49,poison,"Shield Dust"
+49,poison,"Tinted Lens"
+49,poison,"Wonder Skin "
+50,ground,"Arena Trap"
+50,ground,"Sand Force"
+50,ground,"Sand Force"
+50,ground,"Sand Veil"
+50,ground,"Sand Veil"
+50,ground,"Tangling Hair"
+50,ground,"Arena Trap"
+50,ground,"Sand Force"
+50,ground,"Sand Force"
+50,ground,"Sand Veil"
+50,ground,"Sand Veil"
+50,ground,"Tangling Hair"
+51,ground,"Arena Trap"
+51,ground,"Sand Force"
+51,ground,"Sand Force"
+51,ground,"Sand Veil"
+51,ground,"Sand Veil"
+51,ground,"Tangling Hair"
+51,ground,"Arena Trap"
+51,ground,"Sand Force"
+51,ground,"Sand Force"
+51,ground,"Sand Veil"
+51,ground,"Sand Veil"
+51,ground,"Tangling Hair"
+52,dark,Pickup
+52,dark,Pickup
+52,dark,Rattled
+52,dark,Technician
+52,dark,Technician
+52,dark,Unnerve
+52,normal,Pickup
+52,normal,Pickup
+52,normal,Rattled
+52,normal,Technician
+52,normal,Technician
+52,normal,Unnerve
+53,dark,"Fur Coat"
+53,dark,Limber
+53,dark,Rattled
+53,dark,Technician
+53,dark,Technician
+53,dark,Unnerve
+53,normal,"Fur Coat"
+53,normal,Limber
+53,normal,Rattled
+53,normal,Technician
+53,normal,Technician
+53,normal,Unnerve
+54,water,"Cloud Nine"
+54,water,Damp
+54,water,"Swift Swim"
+55,water,"Cloud Nine"
+55,water,Damp
+55,water,"Swift Swim"
+56,fighting,"Anger Point"
+56,fighting,Defiant
+56,fighting,"Vital Spirit"
+57,fighting,"Anger Point"
+57,fighting,Defiant
+57,fighting,"Vital Spirit"
+58,fire,"Flash Fire"
+58,fire,Intimidate
+58,fire,Justified
+59,fire,"Flash Fire"
+59,fire,Intimidate
+59,fire,Justified
+60,water,Damp
+60,water,"Swift Swim"
+60,water,"Water Absorb"
+61,water,Damp
+61,water,"Swift Swim"
+61,water,"Water Absorb"
+62,fighting,Damp
+62,fighting,"Swift Swim"
+62,fighting,"Water Absorb"
+62,water,Damp
+62,water,"Swift Swim"
+62,water,"Water Absorb"
+63,psychic,"Inner Focus"
+63,psychic,"Magic Guard"
+63,psychic,Synchronize
+64,psychic,"Inner Focus"
+64,psychic,"Magic Guard"
+64,psychic,Synchronize
+65,psychic,"Inner Focus"
+65,psychic,"Magic Guard"
+65,psychic,Synchronize
+66,fighting,Guts
+66,fighting,"No Guard"
+66,fighting,Steadfast
+67,fighting,Guts
+67,fighting,"No Guard"
+67,fighting,Steadfast
+68,fighting,Guts
+68,fighting,"No Guard"
+68,fighting,Steadfast
+69,grass,Chlorophyll
+69,grass,Gluttony
+69,poison,Chlorophyll
+69,poison,Gluttony
+70,grass,Chlorophyll
+70,grass,Gluttony
+70,poison,Chlorophyll
+70,poison,Gluttony
+71,grass,Chlorophyll
+71,grass,Gluttony
+71,poison,Chlorophyll
+71,poison,Gluttony
+72,poison,"Clear Body"
+72,poison,"Liquid Ooze"
+72,poison,"Rain Dish"
+72,water,"Clear Body"
+72,water,"Liquid Ooze"
+72,water,"Rain Dish"
+73,poison,"Clear Body"
+73,poison,"Liquid Ooze"
+73,poison,"Rain Dish"
+73,water,"Clear Body"
+73,water,"Liquid Ooze"
+73,water,"Rain Dish"
+74,ground,Galvanize
+74,ground,"Magnet Pull"
+74,ground,"Rock Head"
+74,ground,"Sand Veil"
+74,ground,Sturdy
+74,ground,Sturdy
+74,rock,Galvanize
+74,rock,"Magnet Pull"
+74,rock,"Rock Head"
+74,rock,"Sand Veil"
+74,rock,Sturdy
+74,rock,Sturdy
+75,ground,Galvanize
+75,ground,"Magnet Pull"
+75,ground,"Rock Head"
+75,ground,"Sand Veil"
+75,ground,Sturdy
+75,ground,Sturdy
+75,rock,Galvanize
+75,rock,"Magnet Pull"
+75,rock,"Rock Head"
+75,rock,"Sand Veil"
+75,rock,Sturdy
+75,rock,Sturdy
+76,ground,Galvanize
+76,ground,"Magnet Pull"
+76,ground,"Rock Head"
+76,ground,"Sand Veil"
+76,ground,Sturdy
+76,ground,Sturdy
+76,rock,Galvanize
+76,rock,"Magnet Pull"
+76,rock,"Rock Head"
+76,rock,"Sand Veil"
+76,rock,Sturdy
+76,rock,Sturdy
+77,fire,"Flame Body"
+77,fire,"Flash Fire"
+77,fire,"Run Away"
+78,fire,"Flame Body"
+78,fire,"Flash Fire"
+78,fire,"Run Away"
+79,psychic,Oblivious
+79,psychic,"Own Tempo"
+79,psychic,Regenerator
+79,water,Oblivious
+79,water,"Own Tempo"
+79,water,Regenerator
+80,psychic,Oblivious
+80,psychic,"Own Tempo"
+80,psychic,Regenerator
+80,water,Oblivious
+80,water,"Own Tempo"
+80,water,Regenerator
+81,electric,Analytic
+81,electric,"Magnet Pull"
+81,electric,Sturdy
+81,steel,Analytic
+81,steel,"Magnet Pull"
+81,steel,Sturdy
+82,electric,Analytic
+82,electric,"Magnet Pull"
+82,electric,Sturdy
+82,steel,Analytic
+82,steel,"Magnet Pull"
+82,steel,Sturdy
+83,flying,Defiant
+83,flying,"Inner Focus"
+83,flying,"Keen Eye"
+83,normal,Defiant
+83,normal,"Inner Focus"
+83,normal,"Keen Eye"
+84,flying,"Early Bird"
+84,flying,"Run Away"
+84,flying,"Tangled Feet"
+84,normal,"Early Bird"
+84,normal,"Run Away"
+84,normal,"Tangled Feet"
+85,flying,"Early Bird"
+85,flying,"Run Away"
+85,flying,"Tangled Feet"
+85,normal,"Early Bird"
+85,normal,"Run Away"
+85,normal,"Tangled Feet"
+86,water,Hydration
+86,water,"Ice Body"
+86,water,"Thick Fat"
+87,ice,Hydration
+87,ice,"Ice Body"
+87,ice,"Thick Fat"
+87,water,Hydration
+87,water,"Ice Body"
+87,water,"Thick Fat"
+88,poison,Gluttony
+88,poison,"Poison Touch"
+88,poison,"Poison Touch"
+88,poison,"Power of Alchemy"
+88,poison,Stench
+88,poison,"Sticky Hold"
+88,poison,Gluttony
+88,poison,"Poison Touch"
+88,poison,"Poison Touch"
+88,poison,"Power of Alchemy"
+88,poison,Stench
+88,poison,"Sticky Hold"
+89,poison,Gluttony
+89,poison,"Poison Touch"
+89,poison,"Poison Touch"
+89,poison,"Power of Alchemy"
+89,poison,Stench
+89,poison,"Sticky Hold"
+89,poison,Gluttony
+89,poison,"Poison Touch"
+89,poison,"Poison Touch"
+89,poison,"Power of Alchemy"
+89,poison,Stench
+89,poison,"Sticky Hold"
+90,water,Overcoat
+90,water,"Shell Armor"
+90,water,"Skill Link"
+91,ice,Overcoat
+91,ice,"Shell Armor"
+91,ice,"Skill Link"
+91,water,Overcoat
+91,water,"Shell Armor"
+91,water,"Skill Link"
+92,ghost,Levitate
+92,poison,Levitate
+93,ghost,Levitate
+93,poison,Levitate
+94,ghost,"Cursed Body"
+94,poison,"Cursed Body"
+95,ground,"Rock Head"
+95,ground,Sturdy
+95,ground,"Weak Armor"
+95,rock,"Rock Head"
+95,rock,Sturdy
+95,rock,"Weak Armor"
+96,psychic,Forewarn
+96,psychic,"Inner Focus"
+96,psychic,Insomnia
+97,psychic,Forewarn
+97,psychic,"Inner Focus"
+97,psychic,Insomnia
+98,water,"Hyper Cutter"
+98,water,"Sheer Force"
+98,water,"Shell Armor"
+99,water,"Hyper Cutter"
+99,water,"Sheer Force"
+99,water,"Shell Armor"
+100,electric,Aftermath
+100,electric,Soundproof
+100,electric,Static
+101,electric,Aftermath
+101,electric,Soundproof
+101,electric,Static
+102,grass,Chlorophyll
+102,grass,Harvest
+102,psychic,Chlorophyll
+102,psychic,Harvest
+103,grass,Chlorophyll
+103,grass,Frisk
+103,grass,Harvest
+103,grass,Harvest
+103,psychic,Chlorophyll
+103,psychic,Frisk
+103,psychic,Harvest
+103,psychic,Harvest
+104,ground,"Battle Armor"
+104,ground,Lightningrod
+104,ground,"Rock Head"
+105,fire,"Battle Armor"
+105,fire,"Cursed Body"
+105,fire,Lightningrod
+105,fire,Lightningrod
+105,fire,"Rock Head"
+105,fire,"Rock Head"
+105,ground,"Battle Armor"
+105,ground,"Cursed Body"
+105,ground,Lightningrod
+105,ground,Lightningrod
+105,ground,"Rock Head"
+105,ground,"Rock Head"
+106,fighting,Limber
+106,fighting,Reckless
+106,fighting,Unburden
+107,fighting,"Inner Focus"
+107,fighting,"Iron Fist"
+107,fighting,"Keen Eye"
+108,normal,"Cloud Nine"
+108,normal,Oblivious
+108,normal,"Own Tempo"
+109,poison,Levitate
+110,poison,Levitate
+111,ground,Lightningrod
+111,ground,Reckless
+111,ground,"Rock Head"
+111,rock,Lightningrod
+111,rock,Reckless
+111,rock,"Rock Head"
+112,ground,Lightningrod
+112,ground,Reckless
+112,ground,"Rock Head"
+112,rock,Lightningrod
+112,rock,Reckless
+112,rock,"Rock Head"
+113,normal,Healer
+113,normal,"Natural Cure"
+113,normal,"Serene Grace"
+114,grass,Chlorophyll
+114,grass,"Leaf Guard"
+114,grass,Regenerator
+115,normal,"Early Bird"
+115,normal,"Inner Focus"
+115,normal,Scrappy
+116,water,Damp
+116,water,Sniper
+116,water,"Swift Swim"
+117,water,Damp
+117,water,"Poison Point"
+117,water,Sniper
+118,water,Lightningrod
+118,water,"Swift Swim"
+118,water,"Water Veil"
+119,water,Lightningrod
+119,water,"Swift Swim"
+119,water,"Water Veil"
+120,water,Analytic
+120,water,Illuminate
+120,water,"Natural Cure"
+121,psychic,Analytic
+121,psychic,Illuminate
+121,psychic,"Natural Cure"
+121,water,Analytic
+121,water,Illuminate
+121,water,"Natural Cure"
+122,fairy,Filter
+122,fairy,Soundproof
+122,fairy,Technician
+122,psychic,Filter
+122,psychic,Soundproof
+122,psychic,Technician
+123,bug,Steadfast
+123,bug,Swarm
+123,bug,Technician
+123,flying,Steadfast
+123,flying,Swarm
+123,flying,Technician
+124,ice,"Dry Skin"
+124,ice,Forewarn
+124,ice,Oblivious
+124,psychic,"Dry Skin"
+124,psychic,Forewarn
+124,psychic,Oblivious
+125,electric,Static
+125,electric,"Vital Spirit"
+126,fire,"Flame Body"
+126,fire,"Vital Spirit"
+127,bug,"Hyper Cutter"
+127,bug,"Mold Breaker"
+127,bug,Moxie
+128,normal,"Anger Point"
+128,normal,Intimidate
+128,normal,"Sheer Force"
+129,water,Rattled
+129,water,"Swift Swim"
+130,flying,Intimidate
+130,flying,Moxie
+130,water,Intimidate
+130,water,Moxie
+131,ice,Hydration
+131,ice,"Shell Armor"
+131,ice,"Water Absorb"
+131,water,Hydration
+131,water,"Shell Armor"
+131,water,"Water Absorb"
+132,normal,Imposter
+132,normal,Limber
+133,normal,Adaptability
+133,normal,Anticipation
+133,normal,"Run Away"
+134,water,Hydration
+134,water,"Water Absorb"
+135,electric,"Quick Feet"
+135,electric,"Volt Absorb"
+136,fire,"Flash Fire"
+136,fire,Guts
+137,normal,Analytic
+137,normal,Download
+137,normal,Trace
+138,rock,"Shell Armor"
+138,rock,"Swift Swim"
+138,rock,"Weak Armor"
+138,water,"Shell Armor"
+138,water,"Swift Swim"
+138,water,"Weak Armor"
+139,rock,"Shell Armor"
+139,rock,"Swift Swim"
+139,rock,"Weak Armor"
+139,water,"Shell Armor"
+139,water,"Swift Swim"
+139,water,"Weak Armor"
+140,rock,"Battle Armor"
+140,rock,"Swift Swim"
+140,rock,"Weak Armor"
+140,water,"Battle Armor"
+140,water,"Swift Swim"
+140,water,"Weak Armor"
+141,rock,"Battle Armor"
+141,rock,"Swift Swim"
+141,rock,"Weak Armor"
+141,water,"Battle Armor"
+141,water,"Swift Swim"
+141,water,"Weak Armor"
+142,flying,Pressure
+142,flying,"Rock Head"
+142,flying,Unnerve
+142,rock,Pressure
+142,rock,"Rock Head"
+142,rock,Unnerve
+143,normal,Gluttony
+143,normal,Immunity
+143,normal,"Thick Fat"
+144,flying,Pressure
+144,flying,"Snow Cloak"
+144,ice,Pressure
+144,ice,"Snow Cloak"
+145,electric,Pressure
+145,electric,Static
+145,flying,Pressure
+145,flying,Static
+146,fire,"Flame Body"
+146,fire,Pressure
+146,flying,"Flame Body"
+146,flying,Pressure
+147,dragon,"Marvel Scale"
+147,dragon,"Shed Skin"
+148,dragon,"Marvel Scale"
+148,dragon,"Shed Skin"
+149,dragon,"Inner Focus"
+149,dragon,Multiscale
+149,flying,"Inner Focus"
+149,flying,Multiscale
+150,psychic,Pressure
+150,psychic,Unnerve
+151,psychic,Synchronize
+152,grass,"Leaf Guard"
+152,grass,Overgrow
+153,grass,"Leaf Guard"
+153,grass,Overgrow
+154,grass,"Leaf Guard"
+154,grass,Overgrow
+155,fire,Blaze
+155,fire,"Flash Fire"
+156,fire,Blaze
+156,fire,"Flash Fire"
+157,fire,Blaze
+157,fire,"Flash Fire"
+158,water,"Sheer Force"
+158,water,Torrent
+159,water,"Sheer Force"
+159,water,Torrent
+160,water,"Sheer Force"
+160,water,Torrent
+161,normal,Frisk
+161,normal,"Keen Eye"
+161,normal,"Run Away"
+162,normal,Frisk
+162,normal,"Keen Eye"
+162,normal,"Run Away"
+163,flying,Insomnia
+163,flying,"Keen Eye"
+163,flying,"Tinted Lens"
+163,normal,Insomnia
+163,normal,"Keen Eye"
+163,normal,"Tinted Lens"
+164,flying,Insomnia
+164,flying,"Keen Eye"
+164,flying,"Tinted Lens"
+164,normal,Insomnia
+164,normal,"Keen Eye"
+164,normal,"Tinted Lens"
+165,bug,"Early Bird"
+165,bug,Rattled
+165,bug,Swarm
+165,flying,"Early Bird"
+165,flying,Rattled
+165,flying,Swarm
+166,bug,"Early Bird"
+166,bug,"Iron Fist"
+166,bug,Swarm
+166,flying,"Early Bird"
+166,flying,"Iron Fist"
+166,flying,Swarm
+167,bug,Insomnia
+167,bug,Sniper
+167,bug,Swarm
+167,poison,Insomnia
+167,poison,Sniper
+167,poison,Swarm
+168,bug,Insomnia
+168,bug,Sniper
+168,bug,Swarm
+168,poison,Insomnia
+168,poison,Sniper
+168,poison,Swarm
+169,flying,Infiltrator
+169,flying,"Inner Focus"
+169,poison,Infiltrator
+169,poison,"Inner Focus"
+170,electric,Illuminate
+170,electric,"Volt Absorb"
+170,electric,"Water Absorb"
+170,water,Illuminate
+170,water,"Volt Absorb"
+170,water,"Water Absorb"
+171,electric,Illuminate
+171,electric,"Volt Absorb"
+171,electric,"Water Absorb"
+171,water,Illuminate
+171,water,"Volt Absorb"
+171,water,"Water Absorb"
+172,electric,Lightningrod
+172,electric,Static
+173,fairy,"Cute Charm"
+173,fairy,"Friend Guard"
+173,fairy,"Magic Guard"
+174,fairy,Competitive
+174,fairy,"Cute Charm"
+174,fairy,"Friend Guard"
+174,normal,Competitive
+174,normal,"Cute Charm"
+174,normal,"Friend Guard"
+175,fairy,Hustle
+175,fairy,"Serene Grace"
+175,fairy,"Super Luck"
+176,fairy,Hustle
+176,fairy,"Serene Grace"
+176,fairy,"Super Luck"
+176,flying,Hustle
+176,flying,"Serene Grace"
+176,flying,"Super Luck"
+177,flying,"Early Bird"
+177,flying,"Magic Bounce"
+177,flying,Synchronize
+177,psychic,"Early Bird"
+177,psychic,"Magic Bounce"
+177,psychic,Synchronize
+178,flying,"Early Bird"
+178,flying,"Magic Bounce"
+178,flying,Synchronize
+178,psychic,"Early Bird"
+178,psychic,"Magic Bounce"
+178,psychic,Synchronize
+179,electric,Plus
+179,electric,Static
+180,electric,Plus
+180,electric,Static
+181,electric,Plus
+181,electric,Static
+182,grass,Chlorophyll
+182,grass,Healer
+183,fairy,"Huge Power"
+183,fairy,"Sap Sipper"
+183,fairy,"Thick Fat"
+183,water,"Huge Power"
+183,water,"Sap Sipper"
+183,water,"Thick Fat"
+184,fairy,"Huge Power"
+184,fairy,"Sap Sipper"
+184,fairy,"Thick Fat"
+184,water,"Huge Power"
+184,water,"Sap Sipper"
+184,water,"Thick Fat"
+185,rock,Rattled
+185,rock,"Rock Head"
+185,rock,Sturdy
+186,water,Damp
+186,water,Drizzle
+186,water,"Water Absorb"
+187,flying,Chlorophyll
+187,flying,Infiltrator
+187,flying,"Leaf Guard"
+187,grass,Chlorophyll
+187,grass,Infiltrator
+187,grass,"Leaf Guard"
+188,flying,Chlorophyll
+188,flying,Infiltrator
+188,flying,"Leaf Guard"
+188,grass,Chlorophyll
+188,grass,Infiltrator
+188,grass,"Leaf Guard"
+189,flying,Chlorophyll
+189,flying,Infiltrator
+189,flying,"Leaf Guard"
+189,grass,Chlorophyll
+189,grass,Infiltrator
+189,grass,"Leaf Guard"
+190,normal,Pickup
+190,normal,"Run Away"
+190,normal,"Skill Link"
+191,grass,Chlorophyll
+191,grass,"Early Bird"
+191,grass,"Solar Power"
+192,grass,Chlorophyll
+192,grass,"Early Bird"
+192,grass,"Solar Power"
+193,bug,Compoundeyes
+193,bug,Frisk
+193,bug,"Speed Boost"
+193,flying,Compoundeyes
+193,flying,Frisk
+193,flying,"Speed Boost"
+194,ground,Damp
+194,ground,Unaware
+194,ground,"Water Absorb"
+194,water,Damp
+194,water,Unaware
+194,water,"Water Absorb"
+195,ground,Damp
+195,ground,Unaware
+195,ground,"Water Absorb"
+195,water,Damp
+195,water,Unaware
+195,water,"Water Absorb"
+196,psychic,"Magic Bounce"
+196,psychic,Synchronize
+197,dark,"Inner Focus"
+197,dark,Synchronize
+198,dark,Insomnia
+198,dark,Prankster
+198,dark,"Super Luck"
+198,flying,Insomnia
+198,flying,Prankster
+198,flying,"Super Luck"
+199,psychic,Oblivious
+199,psychic,"Own Tempo"
+199,psychic,Regenerator
+199,water,Oblivious
+199,water,"Own Tempo"
+199,water,Regenerator
+200,ghost,Levitate
+201,psychic,Levitate
+202,psychic,"Shadow Tag"
+202,psychic,Telepathy
+203,normal,"Early Bird"
+203,normal,"Inner Focus"
+203,normal,"Sap Sipper"
+203,psychic,"Early Bird"
+203,psychic,"Inner Focus"
+203,psychic,"Sap Sipper"
+204,bug,Overcoat
+204,bug,Sturdy
+205,bug,Overcoat
+205,bug,Sturdy
+205,steel,Overcoat
+205,steel,Sturdy
+206,normal,Rattled
+206,normal,"Run Away"
+206,normal,"Serene Grace"
+207,flying,"Hyper Cutter"
+207,flying,Immunity
+207,flying,"Sand Veil"
+207,ground,"Hyper Cutter"
+207,ground,Immunity
+207,ground,"Sand Veil"
+208,ground,"Rock Head"
+208,ground,"Sheer Force"
+208,ground,Sturdy
+208,steel,"Rock Head"
+208,steel,"Sheer Force"
+208,steel,Sturdy
+209,fairy,Intimidate
+209,fairy,Rattled
+209,fairy,"Run Away"
+210,fairy,Intimidate
+210,fairy,"Quick Feet"
+210,fairy,Rattled
+211,poison,Intimidate
+211,poison,"Poison Point"
+211,poison,"Swift Swim"
+211,water,Intimidate
+211,water,"Poison Point"
+211,water,"Swift Swim"
+212,bug,"Light Metal"
+212,bug,Swarm
+212,bug,Technician
+212,steel,"Light Metal"
+212,steel,Swarm
+212,steel,Technician
+213,bug,Contrary
+213,bug,Gluttony
+213,bug,Sturdy
+213,rock,Contrary
+213,rock,Gluttony
+213,rock,Sturdy
+214,bug,Guts
+214,bug,Moxie
+214,bug,Swarm
+214,fighting,Guts
+214,fighting,Moxie
+214,fighting,Swarm
+215,dark,"Inner Focus"
+215,dark,"Keen Eye"
+215,dark,Pickpocket
+215,ice,"Inner Focus"
+215,ice,"Keen Eye"
+215,ice,Pickpocket
+216,normal,"Honey Gather"
+216,normal,Pickup
+216,normal,"Quick Feet"
+217,normal,Guts
+217,normal,"Quick Feet"
+217,normal,Unnerve
+218,fire,"Flame Body"
+218,fire,"Magma Armor"
+218,fire,"Weak Armor"
+219,fire,"Flame Body"
+219,fire,"Magma Armor"
+219,fire,"Weak Armor"
+219,rock,"Flame Body"
+219,rock,"Magma Armor"
+219,rock,"Weak Armor"
+220,ground,Oblivious
+220,ground,"Snow Cloak"
+220,ground,"Thick Fat"
+220,ice,Oblivious
+220,ice,"Snow Cloak"
+220,ice,"Thick Fat"
+221,ground,Oblivious
+221,ground,"Snow Cloak"
+221,ground,"Thick Fat"
+221,ice,Oblivious
+221,ice,"Snow Cloak"
+221,ice,"Thick Fat"
+222,rock,Hustle
+222,rock,"Natural Cure"
+222,rock,Regenerator
+222,water,Hustle
+222,water,"Natural Cure"
+222,water,Regenerator
+223,water,Hustle
+223,water,Moody
+223,water,Sniper
+224,water,Moody
+224,water,Sniper
+224,water,"Suction Cups"
+225,flying,Hustle
+225,flying,Insomnia
+225,flying,"Vital Spirit"
+225,ice,Hustle
+225,ice,Insomnia
+225,ice,"Vital Spirit"
+226,flying,"Swift Swim"
+226,flying,"Water Absorb"
+226,flying,"Water Veil"
+226,water,"Swift Swim"
+226,water,"Water Absorb"
+226,water,"Water Veil"
+227,flying,"Keen Eye"
+227,flying,Sturdy
+227,flying,"Weak Armor"
+227,steel,"Keen Eye"
+227,steel,Sturdy
+227,steel,"Weak Armor"
+228,dark,"Early Bird"
+228,dark,"Flash Fire"
+228,dark,Unnerve
+228,fire,"Early Bird"
+228,fire,"Flash Fire"
+228,fire,Unnerve
+229,dark,"Early Bird"
+229,dark,"Flash Fire"
+229,dark,Unnerve
+229,fire,"Early Bird"
+229,fire,"Flash Fire"
+229,fire,Unnerve
+230,dragon,Damp
+230,dragon,Sniper
+230,dragon,"Swift Swim"
+230,water,Damp
+230,water,Sniper
+230,water,"Swift Swim"
+231,ground,Pickup
+231,ground,"Sand Veil"
+232,ground,"Sand Veil"
+232,ground,Sturdy
+233,normal,Analytic
+233,normal,Download
+233,normal,Trace
+234,normal,Frisk
+234,normal,Intimidate
+234,normal,"Sap Sipper"
+235,normal,Moody
+235,normal,"Own Tempo"
+235,normal,Technician
+236,fighting,Guts
+236,fighting,Steadfast
+236,fighting,"Vital Spirit"
+237,fighting,Intimidate
+237,fighting,Steadfast
+237,fighting,Technician
+238,ice,Forewarn
+238,ice,Hydration
+238,ice,Oblivious
+238,psychic,Forewarn
+238,psychic,Hydration
+238,psychic,Oblivious
+239,electric,Static
+239,electric,"Vital Spirit"
+240,fire,"Flame Body"
+240,fire,"Vital Spirit"
+241,normal,"Sap Sipper"
+241,normal,Scrappy
+241,normal,"Thick Fat"
+242,normal,Healer
+242,normal,"Natural Cure"
+242,normal,"Serene Grace"
+243,electric,"Inner Focus"
+243,electric,Pressure
+244,fire,"Inner Focus"
+244,fire,Pressure
+245,water,"Inner Focus"
+245,water,Pressure
+246,ground,Guts
+246,ground,"Sand Veil"
+246,rock,Guts
+246,rock,"Sand Veil"
+247,ground,"Shed Skin"
+247,rock,"Shed Skin"
+248,dark,"Sand Stream"
+248,dark,Unnerve
+248,rock,"Sand Stream"
+248,rock,Unnerve
+249,flying,Multiscale
+249,flying,Pressure
+249,psychic,Multiscale
+249,psychic,Pressure
+250,fire,Pressure
+250,fire,Regenerator
+250,flying,Pressure
+250,flying,Regenerator
+251,grass,"Natural Cure"
+251,psychic,"Natural Cure"
+252,grass,Overgrow
+252,grass,Unburden
+253,grass,Overgrow
+253,grass,Unburden
+254,grass,Overgrow
+254,grass,Unburden
+255,fire,Blaze
+255,fire,"Speed Boost"
+256,fighting,Blaze
+256,fighting,"Speed Boost"
+256,fire,Blaze
+256,fire,"Speed Boost"
+257,fighting,Blaze
+257,fighting,"Speed Boost"
+257,fire,Blaze
+257,fire,"Speed Boost"
+258,water,Damp
+258,water,Torrent
+259,ground,Damp
+259,ground,Torrent
+259,water,Damp
+259,water,Torrent
+260,ground,Damp
+260,ground,Torrent
+260,water,Damp
+260,water,Torrent
+261,dark,"Quick Feet"
+261,dark,Rattled
+261,dark,"Run Away"
+262,dark,Intimidate
+262,dark,Moxie
+262,dark,"Quick Feet"
+263,normal,Gluttony
+263,normal,Pickup
+263,normal,"Quick Feet"
+264,normal,Gluttony
+264,normal,Pickup
+264,normal,"Quick Feet"
+265,bug,"Run Away"
+265,bug,"Shield Dust"
+266,bug,"Shed Skin"
+267,bug,Rivalry
+267,bug,Swarm
+267,flying,Rivalry
+267,flying,Swarm
+268,bug,"Shed Skin"
+269,bug,Compoundeyes
+269,bug,"Shield Dust"
+269,poison,Compoundeyes
+269,poison,"Shield Dust"
+270,grass,"Own Tempo"
+270,grass,"Rain Dish"
+270,grass,"Swift Swim"
+270,water,"Own Tempo"
+270,water,"Rain Dish"
+270,water,"Swift Swim"
+271,grass,"Own Tempo"
+271,grass,"Rain Dish"
+271,grass,"Swift Swim"
+271,water,"Own Tempo"
+271,water,"Rain Dish"
+271,water,"Swift Swim"
+272,grass,"Own Tempo"
+272,grass,"Rain Dish"
+272,grass,"Swift Swim"
+272,water,"Own Tempo"
+272,water,"Rain Dish"
+272,water,"Swift Swim"
+273,grass,Chlorophyll
+273,grass,"Early Bird"
+273,grass,Pickpocket
+274,dark,Chlorophyll
+274,dark,"Early Bird"
+274,dark,Pickpocket
+274,grass,Chlorophyll
+274,grass,"Early Bird"
+274,grass,Pickpocket
+275,dark,Chlorophyll
+275,dark,"Early Bird"
+275,dark,Pickpocket
+275,grass,Chlorophyll
+275,grass,"Early Bird"
+275,grass,Pickpocket
+276,flying,Guts
+276,flying,Scrappy
+276,normal,Guts
+276,normal,Scrappy
+277,flying,Guts
+277,flying,Scrappy
+277,normal,Guts
+277,normal,Scrappy
+278,flying,Hydration
+278,flying,"Keen Eye"
+278,flying,"Rain Dish"
+278,water,Hydration
+278,water,"Keen Eye"
+278,water,"Rain Dish"
+279,flying,Drizzle
+279,flying,"Keen Eye"
+279,flying,"Rain Dish"
+279,water,Drizzle
+279,water,"Keen Eye"
+279,water,"Rain Dish"
+280,fairy,Synchronize
+280,fairy,Telepathy
+280,fairy,Trace
+280,psychic,Synchronize
+280,psychic,Telepathy
+280,psychic,Trace
+281,fairy,Synchronize
+281,fairy,Telepathy
+281,fairy,Trace
+281,psychic,Synchronize
+281,psychic,Telepathy
+281,psychic,Trace
+282,fairy,Synchronize
+282,fairy,Telepathy
+282,fairy,Trace
+282,psychic,Synchronize
+282,psychic,Telepathy
+282,psychic,Trace
+283,bug,"Rain Dish"
+283,bug,"Swift Swim"
+283,water,"Rain Dish"
+283,water,"Swift Swim"
+284,bug,Intimidate
+284,bug,Unnerve
+284,flying,Intimidate
+284,flying,Unnerve
+285,grass,"Effect Spore"
+285,grass,"Poison Heal"
+285,grass,"Quick Feet"
+286,fighting,"Effect Spore"
+286,fighting,"Poison Heal"
+286,fighting,Technician
+286,grass,"Effect Spore"
+286,grass,"Poison Heal"
+286,grass,Technician
+287,normal,Truant
+288,normal,"Vital Spirit"
+289,normal,Truant
+290,bug,Compoundeyes
+290,bug,"Run Away"
+290,ground,Compoundeyes
+290,ground,"Run Away"
+291,bug,Infiltrator
+291,bug,"Speed Boost"
+291,flying,Infiltrator
+291,flying,"Speed Boost"
+292,bug,"Wonder Guard"
+292,ghost,"Wonder Guard"
+293,normal,Rattled
+293,normal,Soundproof
+294,normal,Scrappy
+294,normal,Soundproof
+295,normal,Scrappy
+295,normal,Soundproof
+296,fighting,Guts
+296,fighting,"Sheer Force"
+296,fighting,"Thick Fat"
+297,fighting,Guts
+297,fighting,"Sheer Force"
+297,fighting,"Thick Fat"
+298,fairy,"Huge Power"
+298,fairy,"Sap Sipper"
+298,fairy,"Thick Fat"
+298,normal,"Huge Power"
+298,normal,"Sap Sipper"
+298,normal,"Thick Fat"
+299,rock,"Magnet Pull"
+299,rock,"Sand Force"
+299,rock,Sturdy
+300,normal,"Cute Charm"
+300,normal,Normalize
+300,normal,"Wonder Skin "
+301,normal,"Cute Charm"
+301,normal,Normalize
+301,normal,"Wonder Skin "
+302,dark,"Keen Eye"
+302,dark,Prankster
+302,dark,Stall
+302,ghost,"Keen Eye"
+302,ghost,Prankster
+302,ghost,Stall
+303,fairy,"Hyper Cutter"
+303,fairy,Intimidate
+303,fairy,"Sheer Force"
+303,steel,"Hyper Cutter"
+303,steel,Intimidate
+303,steel,"Sheer Force"
+304,rock,"Heavy Metal"
+304,rock,"Rock Head"
+304,rock,Sturdy
+304,steel,"Heavy Metal"
+304,steel,"Rock Head"
+304,steel,Sturdy
+305,rock,"Heavy Metal"
+305,rock,"Rock Head"
+305,rock,Sturdy
+305,steel,"Heavy Metal"
+305,steel,"Rock Head"
+305,steel,Sturdy
+306,rock,"Heavy Metal"
+306,rock,"Rock Head"
+306,rock,Sturdy
+306,steel,"Heavy Metal"
+306,steel,"Rock Head"
+306,steel,Sturdy
+307,fighting,"Pure Power"
+307,fighting,Telepathy
+307,psychic,"Pure Power"
+307,psychic,Telepathy
+308,fighting,"Pure Power"
+308,fighting,Telepathy
+308,psychic,"Pure Power"
+308,psychic,Telepathy
+309,electric,Lightningrod
+309,electric,Minus
+309,electric,Static
+310,electric,Lightningrod
+310,electric,Minus
+310,electric,Static
+311,electric,Lightningrod
+311,electric,Plus
+312,electric,Minus
+312,electric,"Volt Absorb"
+313,bug,Illuminate
+313,bug,Prankster
+313,bug,Swarm
+314,bug,Oblivious
+314,bug,Prankster
+314,bug,"Tinted Lens"
+315,grass,"Leaf Guard"
+315,grass,"Natural Cure"
+315,grass,"Poison Point"
+315,poison,"Leaf Guard"
+315,poison,"Natural Cure"
+315,poison,"Poison Point"
+316,poison,Gluttony
+316,poison,"Liquid Ooze"
+316,poison,"Sticky Hold"
+317,poison,Gluttony
+317,poison,"Liquid Ooze"
+317,poison,"Sticky Hold"
+318,dark,"Rough Skin"
+318,dark,"Speed Boost"
+318,water,"Rough Skin"
+318,water,"Speed Boost"
+319,dark,"Rough Skin"
+319,dark,"Speed Boost"
+319,water,"Rough Skin"
+319,water,"Speed Boost"
+320,water,Oblivious
+320,water,Pressure
+320,water,"Water Veil"
+321,water,Oblivious
+321,water,Pressure
+321,water,"Water Veil"
+322,fire,Oblivious
+322,fire,"Own Tempo"
+322,fire,Simple
+322,ground,Oblivious
+322,ground,"Own Tempo"
+322,ground,Simple
+323,fire,"Anger Point"
+323,fire,"Magma Armor"
+323,fire,"Solid Rock"
+323,ground,"Anger Point"
+323,ground,"Magma Armor"
+323,ground,"Solid Rock"
+324,fire,Drought
+324,fire,"Shell Armor"
+324,fire,"White Smoke"
+325,psychic,Gluttony
+325,psychic,"Own Tempo"
+325,psychic,"Thick Fat"
+326,psychic,Gluttony
+326,psychic,"Own Tempo"
+326,psychic,"Thick Fat"
+327,normal,Contrary
+327,normal,"Own Tempo"
+327,normal,"Tangled Feet"
+328,ground,"Arena Trap"
+328,ground,"Hyper Cutter"
+328,ground,"Sheer Force"
+329,dragon,Levitate
+329,ground,Levitate
+330,dragon,Levitate
+330,ground,Levitate
+331,grass,"Sand Veil"
+331,grass,"Water Absorb"
+332,dark,"Sand Veil"
+332,dark,"Water Absorb"
+332,grass,"Sand Veil"
+332,grass,"Water Absorb"
+333,flying,"Cloud Nine"
+333,flying,"Natural Cure"
+333,normal,"Cloud Nine"
+333,normal,"Natural Cure"
+334,dragon,"Cloud Nine"
+334,dragon,"Natural Cure"
+334,flying,"Cloud Nine"
+334,flying,"Natural Cure"
+335,normal,Immunity
+335,normal,"Toxic Boost"
+336,poison,Infiltrator
+336,poison,"Shed Skin"
+337,psychic,Levitate
+337,rock,Levitate
+338,psychic,Levitate
+338,rock,Levitate
+339,ground,Anticipation
+339,ground,Hydration
+339,ground,Oblivious
+339,water,Anticipation
+339,water,Hydration
+339,water,Oblivious
+340,ground,Anticipation
+340,ground,Hydration
+340,ground,Oblivious
+340,water,Anticipation
+340,water,Hydration
+340,water,Oblivious
+341,water,Adaptability
+341,water,"Hyper Cutter"
+341,water,"Shell Armor"
+342,dark,Adaptability
+342,dark,"Hyper Cutter"
+342,dark,"Shell Armor"
+342,water,Adaptability
+342,water,"Hyper Cutter"
+342,water,"Shell Armor"
+343,ground,Levitate
+343,psychic,Levitate
+344,ground,Levitate
+344,psychic,Levitate
+345,grass,"Storm Drain"
+345,grass,"Suction Cups"
+345,rock,"Storm Drain"
+345,rock,"Suction Cups"
+346,grass,"Storm Drain"
+346,grass,"Suction Cups"
+346,rock,"Storm Drain"
+346,rock,"Suction Cups"
+347,bug,"Battle Armor"
+347,bug,"Swift Swim"
+347,rock,"Battle Armor"
+347,rock,"Swift Swim"
+348,bug,"Battle Armor"
+348,bug,"Swift Swim"
+348,rock,"Battle Armor"
+348,rock,"Swift Swim"
+349,water,Adaptability
+349,water,Oblivious
+349,water,"Swift Swim"
+350,water,Competitive
+350,water,"Cute Charm"
+350,water,"Marvel Scale"
+351,normal,Forecast
+352,normal,"Color Change"
+352,normal,Protean
+353,ghost,"Cursed Body"
+353,ghost,Frisk
+353,ghost,Insomnia
+354,ghost,"Cursed Body"
+354,ghost,Frisk
+354,ghost,Insomnia
+355,ghost,Frisk
+355,ghost,Levitate
+356,ghost,Frisk
+356,ghost,Pressure
+357,flying,Chlorophyll
+357,flying,Harvest
+357,flying,"Solar Power"
+357,grass,Chlorophyll
+357,grass,Harvest
+357,grass,"Solar Power"
+358,psychic,Levitate
+359,dark,Justified
+359,dark,Pressure
+359,dark,"Super Luck"
+360,psychic,"Shadow Tag"
+360,psychic,Telepathy
+361,ice,"Ice Body"
+361,ice,"Inner Focus"
+361,ice,Moody
+362,ice,"Ice Body"
+362,ice,"Inner Focus"
+362,ice,Moody
+363,ice,"Ice Body"
+363,ice,Oblivious
+363,ice,"Thick Fat"
+363,water,"Ice Body"
+363,water,Oblivious
+363,water,"Thick Fat"
+364,ice,"Ice Body"
+364,ice,Oblivious
+364,ice,"Thick Fat"
+364,water,"Ice Body"
+364,water,Oblivious
+364,water,"Thick Fat"
+365,ice,"Ice Body"
+365,ice,Oblivious
+365,ice,"Thick Fat"
+365,water,"Ice Body"
+365,water,Oblivious
+365,water,"Thick Fat"
+366,water,Rattled
+366,water,"Shell Armor"
+367,water,"Swift Swim"
+367,water,"Water Veil"
+368,water,Hydration
+368,water,"Swift Swim"
+369,rock,"Rock Head"
+369,rock,Sturdy
+369,rock,"Swift Swim"
+369,water,"Rock Head"
+369,water,Sturdy
+369,water,"Swift Swim"
+370,water,Hydration
+370,water,"Swift Swim"
+371,dragon,"Rock Head"
+371,dragon,"Sheer Force"
+372,dragon,Overcoat
+372,dragon,"Rock Head"
+373,dragon,Intimidate
+373,dragon,Moxie
+373,flying,Intimidate
+373,flying,Moxie
+374,psychic,"Clear Body"
+374,psychic,"Light Metal"
+374,steel,"Clear Body"
+374,steel,"Light Metal"
+375,psychic,"Clear Body"
+375,psychic,"Light Metal"
+375,steel,"Clear Body"
+375,steel,"Light Metal"
+376,psychic,"Clear Body"
+376,psychic,"Light Metal"
+376,steel,"Clear Body"
+376,steel,"Light Metal"
+377,rock,"Clear Body"
+377,rock,Sturdy
+378,ice,"Clear Body"
+378,ice,"Ice Body"
+379,steel,"Clear Body"
+379,steel,"Light Metal"
+380,dragon,Levitate
+380,psychic,Levitate
+381,dragon,Levitate
+381,psychic,Levitate
+382,water,Drizzle
+383,ground,Drought
+384,dragon,"Air Lock"
+384,flying,"Air Lock"
+385,psychic,"Serene Grace"
+385,steel,"Serene Grace"
+386,psychic,Pressure
+387,grass,Overgrow
+387,grass,"Shell Armor"
+388,grass,Overgrow
+388,grass,"Shell Armor"
+389,grass,Overgrow
+389,grass,"Shell Armor"
+389,ground,Overgrow
+389,ground,"Shell Armor"
+390,fire,Blaze
+390,fire,"Iron Fist"
+391,fighting,Blaze
+391,fighting,"Iron Fist"
+391,fire,Blaze
+391,fire,"Iron Fist"
+392,fighting,Blaze
+392,fighting,"Iron Fist"
+392,fire,Blaze
+392,fire,"Iron Fist"
+393,water,Defiant
+393,water,Torrent
+394,water,Defiant
+394,water,Torrent
+395,steel,Defiant
+395,steel,Torrent
+395,water,Defiant
+395,water,Torrent
+396,flying,"Keen Eye"
+396,flying,Reckless
+396,normal,"Keen Eye"
+396,normal,Reckless
+397,flying,Intimidate
+397,flying,Reckless
+397,normal,Intimidate
+397,normal,Reckless
+398,flying,Intimidate
+398,flying,Reckless
+398,normal,Intimidate
+398,normal,Reckless
+399,normal,Moody
+399,normal,Simple
+399,normal,Unaware
+400,normal,Moody
+400,normal,Simple
+400,normal,Unaware
+400,water,Moody
+400,water,Simple
+400,water,Unaware
+401,bug,"Run Away"
+401,bug,"Shed Skin"
+402,bug,Swarm
+402,bug,Technician
+403,electric,Guts
+403,electric,Intimidate
+403,electric,Rivalry
+404,electric,Guts
+404,electric,Intimidate
+404,electric,Rivalry
+405,electric,Guts
+405,electric,Intimidate
+405,electric,Rivalry
+406,grass,"Leaf Guard"
+406,grass,"Natural Cure"
+406,grass,"Poison Point"
+406,poison,"Leaf Guard"
+406,poison,"Natural Cure"
+406,poison,"Poison Point"
+407,grass,"Natural Cure"
+407,grass,"Poison Point"
+407,grass,Technician
+407,poison,"Natural Cure"
+407,poison,"Poison Point"
+407,poison,Technician
+408,rock,"Mold Breaker"
+408,rock,"Sheer Force"
+409,rock,"Mold Breaker"
+409,rock,"Sheer Force"
+410,rock,Soundproof
+410,rock,Sturdy
+410,steel,Soundproof
+410,steel,Sturdy
+411,rock,Soundproof
+411,rock,Sturdy
+411,steel,Soundproof
+411,steel,Sturdy
+412,bug,Overcoat
+412,bug,"Shed Skin"
+413,bug,Anticipation
+413,bug,Overcoat
+413,grass,Anticipation
+413,grass,Overcoat
+414,bug,Swarm
+414,bug,"Tinted Lens"
+414,flying,Swarm
+414,flying,"Tinted Lens"
+415,bug,"Honey Gather"
+415,bug,Hustle
+415,flying,"Honey Gather"
+415,flying,Hustle
+416,bug,Pressure
+416,bug,Unnerve
+416,flying,Pressure
+416,flying,Unnerve
+417,electric,Pickup
+417,electric,"Run Away"
+417,electric,"Volt Absorb"
+418,water,"Swift Swim"
+418,water,"Water Veil"
+419,water,"Swift Swim"
+419,water,"Water Veil"
+420,grass,Chlorophyll
+421,grass,"Flower Gift"
+422,water,"Sand Force"
+422,water,"Sticky Hold"
+422,water,"Storm Drain"
+423,ground,"Sand Force"
+423,ground,"Sticky Hold"
+423,ground,"Storm Drain"
+423,water,"Sand Force"
+423,water,"Sticky Hold"
+423,water,"Storm Drain"
+424,normal,Pickup
+424,normal,"Skill Link"
+424,normal,Technician
+425,flying,Aftermath
+425,flying,"Flare Boost"
+425,flying,Unburden
+425,ghost,Aftermath
+425,ghost,"Flare Boost"
+425,ghost,Unburden
+426,flying,Aftermath
+426,flying,"Flare Boost"
+426,flying,Unburden
+426,ghost,Aftermath
+426,ghost,"Flare Boost"
+426,ghost,Unburden
+427,normal,Klutz
+427,normal,Limber
+427,normal,"Run Away"
+428,normal,"Cute Charm"
+428,normal,Klutz
+428,normal,Limber
+429,ghost,Levitate
+430,dark,Insomnia
+430,dark,Moxie
+430,dark,"Super Luck"
+430,flying,Insomnia
+430,flying,Moxie
+430,flying,"Super Luck"
+431,normal,"Keen Eye"
+431,normal,Limber
+431,normal,"Own Tempo"
+432,normal,Defiant
+432,normal,"Own Tempo"
+432,normal,"Thick Fat"
+433,psychic,Levitate
+434,dark,Aftermath
+434,dark,"Keen Eye"
+434,dark,Stench
+434,poison,Aftermath
+434,poison,"Keen Eye"
+434,poison,Stench
+435,dark,Aftermath
+435,dark,"Keen Eye"
+435,dark,Stench
+435,poison,Aftermath
+435,poison,"Keen Eye"
+435,poison,Stench
+436,psychic,Heatproof
+436,psychic,"Heavy Metal"
+436,psychic,Levitate
+436,steel,Heatproof
+436,steel,"Heavy Metal"
+436,steel,Levitate
+437,psychic,Heatproof
+437,psychic,"Heavy Metal"
+437,psychic,Levitate
+437,steel,Heatproof
+437,steel,"Heavy Metal"
+437,steel,Levitate
+438,rock,Rattled
+438,rock,"Rock Head"
+438,rock,Sturdy
+439,fairy,Filter
+439,fairy,Soundproof
+439,fairy,Technician
+439,psychic,Filter
+439,psychic,Soundproof
+439,psychic,Technician
+440,normal,"Friend Guard"
+440,normal,"Natural Cure"
+440,normal,"Serene Grace"
+441,flying,"Big Pecks"
+441,flying,"Keen Eye"
+441,flying,"Tangled Feet"
+441,normal,"Big Pecks"
+441,normal,"Keen Eye"
+441,normal,"Tangled Feet"
+442,dark,Infiltrator
+442,dark,Pressure
+442,ghost,Infiltrator
+442,ghost,Pressure
+443,dragon,"Rough Skin"
+443,dragon,"Sand Veil"
+443,ground,"Rough Skin"
+443,ground,"Sand Veil"
+444,dragon,"Rough Skin"
+444,dragon,"Sand Veil"
+444,ground,"Rough Skin"
+444,ground,"Sand Veil"
+445,dragon,"Rough Skin"
+445,dragon,"Sand Veil"
+445,ground,"Rough Skin"
+445,ground,"Sand Veil"
+446,normal,Gluttony
+446,normal,Pickup
+446,normal,"Thick Fat"
+447,fighting,"Inner Focus"
+447,fighting,Prankster
+447,fighting,Steadfast
+448,fighting,"Inner Focus"
+448,fighting,Justified
+448,fighting,Steadfast
+448,steel,"Inner Focus"
+448,steel,Justified
+448,steel,Steadfast
+449,ground,"Sand Force"
+449,ground,"Sand Stream"
+450,ground,"Sand Force"
+450,ground,"Sand Stream"
+451,bug,"Battle Armor"
+451,bug,"Keen Eye"
+451,bug,Sniper
+451,poison,"Battle Armor"
+451,poison,"Keen Eye"
+451,poison,Sniper
+452,dark,"Battle Armor"
+452,dark,"Keen Eye"
+452,dark,Sniper
+452,poison,"Battle Armor"
+452,poison,"Keen Eye"
+452,poison,Sniper
+453,fighting,Anticipation
+453,fighting,"Dry Skin"
+453,fighting,"Poison Touch"
+453,poison,Anticipation
+453,poison,"Dry Skin"
+453,poison,"Poison Touch"
+454,fighting,Anticipation
+454,fighting,"Dry Skin"
+454,fighting,"Poison Touch"
+454,poison,Anticipation
+454,poison,"Dry Skin"
+454,poison,"Poison Touch"
+455,grass,Levitate
+456,water,"Storm Drain"
+456,water,"Swift Swim"
+456,water,"Water Veil"
+457,water,"Storm Drain"
+457,water,"Swift Swim"
+457,water,"Water Veil"
+458,flying,"Swift Swim"
+458,flying,"Water Absorb"
+458,flying,"Water Veil"
+458,water,"Swift Swim"
+458,water,"Water Absorb"
+458,water,"Water Veil"
+459,grass,"Snow Warning"
+459,grass,Soundproof
+459,ice,"Snow Warning"
+459,ice,Soundproof
+460,grass,"Snow Warning"
+460,grass,Soundproof
+460,ice,"Snow Warning"
+460,ice,Soundproof
+461,dark,Pickpocket
+461,dark,Pressure
+461,ice,Pickpocket
+461,ice,Pressure
+462,electric,Analytic
+462,electric,"Magnet Pull"
+462,electric,Sturdy
+462,steel,Analytic
+462,steel,"Magnet Pull"
+462,steel,Sturdy
+463,normal,"Cloud Nine"
+463,normal,Oblivious
+463,normal,"Own Tempo"
+464,ground,Lightningrod
+464,ground,Reckless
+464,ground,"Solid Rock"
+464,rock,Lightningrod
+464,rock,Reckless
+464,rock,"Solid Rock"
+465,grass,Chlorophyll
+465,grass,"Leaf Guard"
+465,grass,Regenerator
+466,electric,"Motor Drive"
+466,electric,"Vital Spirit"
+467,fire,"Flame Body"
+467,fire,"Vital Spirit"
+468,fairy,Hustle
+468,fairy,"Serene Grace"
+468,fairy,"Super Luck"
+468,flying,Hustle
+468,flying,"Serene Grace"
+468,flying,"Super Luck"
+469,bug,Frisk
+469,bug,"Speed Boost"
+469,bug,"Tinted Lens"
+469,flying,Frisk
+469,flying,"Speed Boost"
+469,flying,"Tinted Lens"
+470,grass,Chlorophyll
+470,grass,"Leaf Guard"
+471,ice,"Ice Body"
+471,ice,"Snow Cloak"
+472,flying,"Hyper Cutter"
+472,flying,"Poison Heal"
+472,flying,"Sand Veil"
+472,ground,"Hyper Cutter"
+472,ground,"Poison Heal"
+472,ground,"Sand Veil"
+473,ground,Oblivious
+473,ground,"Snow Cloak"
+473,ground,"Thick Fat"
+473,ice,Oblivious
+473,ice,"Snow Cloak"
+473,ice,"Thick Fat"
+474,normal,Adaptability
+474,normal,Analytic
+474,normal,Download
+475,fighting,Justified
+475,fighting,Steadfast
+475,psychic,Justified
+475,psychic,Steadfast
+476,rock,"Magnet Pull"
+476,rock,"Sand Force"
+476,rock,Sturdy
+476,steel,"Magnet Pull"
+476,steel,"Sand Force"
+476,steel,Sturdy
+477,ghost,Frisk
+477,ghost,Pressure
+478,ghost,"Cursed Body"
+478,ghost,"Snow Cloak"
+478,ice,"Cursed Body"
+478,ice,"Snow Cloak"
+479,electric,Levitate
+479,ghost,Levitate
+480,psychic,Levitate
+481,psychic,Levitate
+482,psychic,Levitate
+483,dragon,Pressure
+483,dragon,Telepathy
+483,steel,Pressure
+483,steel,Telepathy
+484,dragon,Pressure
+484,dragon,Telepathy
+484,water,Pressure
+484,water,Telepathy
+485,fire,"Flame Body"
+485,fire,"Flash Fire"
+485,steel,"Flame Body"
+485,steel,"Flash Fire"
+486,normal,"Slow Start"
+487,dragon,Levitate
+487,dragon,Pressure
+487,dragon,Telepathy
+487,ghost,Levitate
+487,ghost,Pressure
+487,ghost,Telepathy
+488,psychic,Levitate
+489,water,Hydration
+490,water,Hydration
+491,dark,"Bad Dreams"
+492,grass,"Natural Cure"
+492,grass,"Serene Grace"
+492,grass,"Natural Cure"
+492,grass,"Serene Grace"
+493,normal,Multitype
+494,fire,"Victory Star"
+494,psychic,"Victory Star"
+495,grass,Contrary
+495,grass,Overgrow
+496,grass,Contrary
+496,grass,Overgrow
+497,grass,Contrary
+497,grass,Overgrow
+498,fire,Blaze
+498,fire,"Thick Fat"
+499,fighting,Blaze
+499,fighting,"Thick Fat"
+499,fire,Blaze
+499,fire,"Thick Fat"
+500,fighting,Blaze
+500,fighting,Reckless
+500,fire,Blaze
+500,fire,Reckless
+501,water,"Shell Armor"
+501,water,Torrent
+502,water,"Shell Armor"
+502,water,Torrent
+503,water,"Shell Armor"
+503,water,Torrent
+504,normal,Analytic
+504,normal,"Keen Eye"
+504,normal,"Run Away"
+505,normal,Analytic
+505,normal,Illuminate
+505,normal,"Keen Eye"
+506,normal,Pickup
+506,normal,"Run Away"
+506,normal,"Vital Spirit"
+507,normal,Intimidate
+507,normal,"Sand Rush"
+507,normal,Scrappy
+508,normal,Intimidate
+508,normal,"Sand Rush"
+508,normal,Scrappy
+509,dark,Limber
+509,dark,Prankster
+509,dark,Unburden
+510,dark,Limber
+510,dark,Prankster
+510,dark,Unburden
+511,grass,Gluttony
+511,grass,Overgrow
+512,grass,Gluttony
+512,grass,Overgrow
+513,fire,Blaze
+513,fire,Gluttony
+514,fire,Blaze
+514,fire,Gluttony
+515,water,Gluttony
+515,water,Torrent
+516,water,Gluttony
+516,water,Torrent
+517,psychic,Forewarn
+517,psychic,Synchronize
+517,psychic,Telepathy
+518,psychic,Forewarn
+518,psychic,Synchronize
+518,psychic,Telepathy
+519,flying,"Big Pecks"
+519,flying,Rivalry
+519,flying,"Super Luck"
+519,normal,"Big Pecks"
+519,normal,Rivalry
+519,normal,"Super Luck"
+520,flying,"Big Pecks"
+520,flying,Rivalry
+520,flying,"Super Luck"
+520,normal,"Big Pecks"
+520,normal,Rivalry
+520,normal,"Super Luck"
+521,flying,"Big Pecks"
+521,flying,Rivalry
+521,flying,"Super Luck"
+521,normal,"Big Pecks"
+521,normal,Rivalry
+521,normal,"Super Luck"
+522,electric,Lightningrod
+522,electric,"Motor Drive"
+522,electric,"Sap Sipper"
+523,electric,Lightningrod
+523,electric,"Motor Drive"
+523,electric,"Sap Sipper"
+524,rock,"Sand Force"
+524,rock,Sturdy
+524,rock,"Weak Armor"
+525,rock,"Sand Force"
+525,rock,Sturdy
+525,rock,"Weak Armor"
+526,rock,"Sand Force"
+526,rock,"Sand Stream"
+526,rock,Sturdy
+527,flying,Klutz
+527,flying,Simple
+527,flying,Unaware
+527,psychic,Klutz
+527,psychic,Simple
+527,psychic,Unaware
+528,flying,Klutz
+528,flying,Simple
+528,flying,Unaware
+528,psychic,Klutz
+528,psychic,Simple
+528,psychic,Unaware
+529,ground,"Mold Breaker"
+529,ground,"Sand Force"
+529,ground,"Sand Rush"
+530,ground,"Mold Breaker"
+530,ground,"Sand Force"
+530,ground,"Sand Rush"
+530,steel,"Mold Breaker"
+530,steel,"Sand Force"
+530,steel,"Sand Rush"
+531,normal,Healer
+531,normal,Klutz
+531,normal,Regenerator
+532,fighting,Guts
+532,fighting,"Iron Fist"
+532,fighting,"Sheer Force"
+533,fighting,Guts
+533,fighting,"Iron Fist"
+533,fighting,"Sheer Force"
+534,fighting,Guts
+534,fighting,"Iron Fist"
+534,fighting,"Sheer Force"
+535,water,Hydration
+535,water,"Swift Swim"
+535,water,"Water Absorb"
+536,ground,Hydration
+536,ground,"Swift Swim"
+536,ground,"Water Absorb"
+536,water,Hydration
+536,water,"Swift Swim"
+536,water,"Water Absorb"
+537,ground,"Poison Touch"
+537,ground,"Swift Swim"
+537,ground,"Water Absorb"
+537,water,"Poison Touch"
+537,water,"Swift Swim"
+537,water,"Water Absorb"
+538,fighting,Guts
+538,fighting,"Inner Focus"
+538,fighting,"Mold Breaker"
+539,fighting,"Inner Focus"
+539,fighting,"Mold Breaker"
+539,fighting,Sturdy
+540,bug,Chlorophyll
+540,bug,Overcoat
+540,bug,Swarm
+540,grass,Chlorophyll
+540,grass,Overcoat
+540,grass,Swarm
+541,bug,Chlorophyll
+541,bug,"Leaf Guard"
+541,bug,Overcoat
+541,grass,Chlorophyll
+541,grass,"Leaf Guard"
+541,grass,Overcoat
+542,bug,Chlorophyll
+542,bug,Overcoat
+542,bug,Swarm
+542,grass,Chlorophyll
+542,grass,Overcoat
+542,grass,Swarm
+543,bug,"Poison Point"
+543,bug,"Speed Boost"
+543,bug,Swarm
+543,poison,"Poison Point"
+543,poison,"Speed Boost"
+543,poison,Swarm
+544,bug,"Poison Point"
+544,bug,"Speed Boost"
+544,bug,Swarm
+544,poison,"Poison Point"
+544,poison,"Speed Boost"
+544,poison,Swarm
+545,bug,"Poison Point"
+545,bug,"Speed Boost"
+545,bug,Swarm
+545,poison,"Poison Point"
+545,poison,"Speed Boost"
+545,poison,Swarm
+546,fairy,Chlorophyll
+546,fairy,Infiltrator
+546,fairy,Prankster
+546,grass,Chlorophyll
+546,grass,Infiltrator
+546,grass,Prankster
+547,fairy,Chlorophyll
+547,fairy,Infiltrator
+547,fairy,Prankster
+547,grass,Chlorophyll
+547,grass,Infiltrator
+547,grass,Prankster
+548,grass,Chlorophyll
+548,grass,"Leaf Guard"
+548,grass,"Own Tempo"
+549,grass,Chlorophyll
+549,grass,"Leaf Guard"
+549,grass,"Own Tempo"
+550,water,Adaptability
+550,water,"Mold Breaker"
+550,water,Reckless
+550,water,"Rock Head"
+551,dark,"Anger Point"
+551,dark,Intimidate
+551,dark,Moxie
+551,ground,"Anger Point"
+551,ground,Intimidate
+551,ground,Moxie
+552,dark,"Anger Point"
+552,dark,Intimidate
+552,dark,Moxie
+552,ground,"Anger Point"
+552,ground,Intimidate
+552,ground,Moxie
+553,dark,"Anger Point"
+553,dark,Intimidate
+553,dark,Moxie
+553,ground,"Anger Point"
+553,ground,Intimidate
+553,ground,Moxie
+554,fire,Hustle
+554,fire,"Inner Focus"
+555,fire,"Sheer Force"
+555,fire,"Zen Mode"
+555,fire,"Sheer Force"
+555,fire,"Zen Mode"
+556,grass,Chlorophyll
+556,grass,"Storm Drain"
+556,grass,"Water Absorb"
+557,bug,"Shell Armor"
+557,bug,Sturdy
+557,bug,"Weak Armor"
+557,rock,"Shell Armor"
+557,rock,Sturdy
+557,rock,"Weak Armor"
+558,bug,"Shell Armor"
+558,bug,Sturdy
+558,bug,"Weak Armor"
+558,rock,"Shell Armor"
+558,rock,Sturdy
+558,rock,"Weak Armor"
+559,dark,Intimidate
+559,dark,Moxie
+559,dark,"Shed Skin"
+559,fighting,Intimidate
+559,fighting,Moxie
+559,fighting,"Shed Skin"
+560,dark,Intimidate
+560,dark,Moxie
+560,dark,"Shed Skin"
+560,fighting,Intimidate
+560,fighting,Moxie
+560,fighting,"Shed Skin"
+561,flying,"Magic Guard"
+561,flying,"Tinted Lens"
+561,flying,"Wonder Skin "
+561,psychic,"Magic Guard"
+561,psychic,"Tinted Lens"
+561,psychic,"Wonder Skin "
+562,ghost,Mummy
+563,ghost,Mummy
+564,rock,"Solid Rock"
+564,rock,Sturdy
+564,rock,"Swift Swim"
+564,water,"Solid Rock"
+564,water,Sturdy
+564,water,"Swift Swim"
+565,rock,"Solid Rock"
+565,rock,Sturdy
+565,rock,"Swift Swim"
+565,water,"Solid Rock"
+565,water,Sturdy
+565,water,"Swift Swim"
+566,flying,Defeatist
+566,rock,Defeatist
+567,flying,Defeatist
+567,rock,Defeatist
+568,poison,Aftermath
+568,poison,Stench
+568,poison,"Sticky Hold"
+569,poison,Aftermath
+569,poison,Stench
+569,poison,"Weak Armor"
+570,dark,Illusion
+571,dark,Illusion
+572,normal,"Cute Charm"
+572,normal,"Skill Link"
+572,normal,Technician
+573,normal,"Cute Charm"
+573,normal,"Skill Link"
+573,normal,Technician
+574,psychic,Competitive
+574,psychic,Frisk
+574,psychic,"Shadow Tag"
+575,psychic,Competitive
+575,psychic,Frisk
+575,psychic,"Shadow Tag"
+576,psychic,Competitive
+576,psychic,Frisk
+576,psychic,"Shadow Tag"
+577,psychic,"Magic Guard"
+577,psychic,Overcoat
+577,psychic,Regenerator
+578,psychic,"Magic Guard"
+578,psychic,Overcoat
+578,psychic,Regenerator
+579,psychic,"Magic Guard"
+579,psychic,Overcoat
+579,psychic,Regenerator
+580,flying,"Big Pecks"
+580,flying,Hydration
+580,flying,"Keen Eye"
+580,water,"Big Pecks"
+580,water,Hydration
+580,water,"Keen Eye"
+581,flying,"Big Pecks"
+581,flying,Hydration
+581,flying,"Keen Eye"
+581,water,"Big Pecks"
+581,water,Hydration
+581,water,"Keen Eye"
+582,ice,"Ice Body"
+582,ice,"Snow Cloak"
+582,ice,"Weak Armor"
+583,ice,"Ice Body"
+583,ice,"Snow Cloak"
+583,ice,"Weak Armor"
+584,ice,"Ice Body"
+584,ice,"Snow Warning"
+584,ice,"Weak Armor"
+585,grass,Chlorophyll
+585,grass,"Sap Sipper"
+585,grass,"Serene Grace"
+585,normal,Chlorophyll
+585,normal,"Sap Sipper"
+585,normal,"Serene Grace"
+586,grass,Chlorophyll
+586,grass,"Sap Sipper"
+586,grass,"Serene Grace"
+586,normal,Chlorophyll
+586,normal,"Sap Sipper"
+586,normal,"Serene Grace"
+587,electric,"Motor Drive"
+587,electric,Static
+587,flying,"Motor Drive"
+587,flying,Static
+588,bug,"No Guard"
+588,bug,"Shed Skin"
+588,bug,Swarm
+589,bug,Overcoat
+589,bug,"Shell Armor"
+589,bug,Swarm
+589,steel,Overcoat
+589,steel,"Shell Armor"
+589,steel,Swarm
+590,grass,"Effect Spore"
+590,grass,Regenerator
+590,poison,"Effect Spore"
+590,poison,Regenerator
+591,grass,"Effect Spore"
+591,grass,Regenerator
+591,poison,"Effect Spore"
+591,poison,Regenerator
+592,ghost,"Cursed Body"
+592,ghost,Damp
+592,ghost,"Water Absorb"
+592,water,"Cursed Body"
+592,water,Damp
+592,water,"Water Absorb"
+593,ghost,"Cursed Body"
+593,ghost,Damp
+593,ghost,"Water Absorb"
+593,water,"Cursed Body"
+593,water,Damp
+593,water,"Water Absorb"
+594,water,Healer
+594,water,Hydration
+594,water,Regenerator
+595,bug,Compoundeyes
+595,bug,Swarm
+595,bug,Unnerve
+595,electric,Compoundeyes
+595,electric,Swarm
+595,electric,Unnerve
+596,bug,Compoundeyes
+596,bug,Swarm
+596,bug,Unnerve
+596,electric,Compoundeyes
+596,electric,Swarm
+596,electric,Unnerve
+597,grass,"Iron Barbs"
+597,steel,"Iron Barbs"
+598,grass,Anticipation
+598,grass,"Iron Barbs"
+598,steel,Anticipation
+598,steel,"Iron Barbs"
+599,steel,"Clear Body"
+599,steel,Minus
+599,steel,Plus
+600,steel,"Clear Body"
+600,steel,Minus
+600,steel,Plus
+601,steel,"Clear Body"
+601,steel,Minus
+601,steel,Plus
+602,electric,Levitate
+603,electric,Levitate
+604,electric,Levitate
+605,psychic,Analytic
+605,psychic,Synchronize
+605,psychic,Telepathy
+606,psychic,Analytic
+606,psychic,Synchronize
+606,psychic,Telepathy
+607,fire,"Flame Body"
+607,fire,"Flash Fire"
+607,fire,Infiltrator
+607,ghost,"Flame Body"
+607,ghost,"Flash Fire"
+607,ghost,Infiltrator
+608,fire,"Flame Body"
+608,fire,"Flash Fire"
+608,fire,Infiltrator
+608,ghost,"Flame Body"
+608,ghost,"Flash Fire"
+608,ghost,Infiltrator
+609,fire,"Flame Body"
+609,fire,"Flash Fire"
+609,fire,Infiltrator
+609,ghost,"Flame Body"
+609,ghost,"Flash Fire"
+609,ghost,Infiltrator
+610,dragon,"Mold Breaker"
+610,dragon,Rivalry
+610,dragon,Unnerve
+611,dragon,"Mold Breaker"
+611,dragon,Rivalry
+611,dragon,Unnerve
+612,dragon,"Mold Breaker"
+612,dragon,Rivalry
+612,dragon,Unnerve
+613,ice,Rattled
+613,ice,"Slush Rush"
+613,ice,"Snow Cloak"
+614,ice,"Slush Rush"
+614,ice,"Snow Cloak"
+614,ice,"Swift Swim"
+615,ice,Levitate
+616,bug,Hydration
+616,bug,Overcoat
+616,bug,"Shell Armor"
+617,bug,Hydration
+617,bug,"Sticky Hold"
+617,bug,Unburden
+618,electric,Limber
+618,electric,"Sand Veil"
+618,electric,Static
+618,ground,Limber
+618,ground,"Sand Veil"
+618,ground,Static
+619,fighting,"Inner Focus"
+619,fighting,Reckless
+619,fighting,Regenerator
+620,fighting,"Inner Focus"
+620,fighting,Reckless
+620,fighting,Regenerator
+621,dragon,"Mold Breaker"
+621,dragon,"Rough Skin"
+621,dragon,"Sheer Force"
+622,ghost,"Iron Fist"
+622,ghost,Klutz
+622,ghost,"No Guard"
+622,ground,"Iron Fist"
+622,ground,Klutz
+622,ground,"No Guard"
+623,ghost,"Iron Fist"
+623,ghost,Klutz
+623,ghost,"No Guard"
+623,ground,"Iron Fist"
+623,ground,Klutz
+623,ground,"No Guard"
+624,dark,Defiant
+624,dark,"Inner Focus"
+624,dark,Pressure
+624,steel,Defiant
+624,steel,"Inner Focus"
+624,steel,Pressure
+625,dark,Defiant
+625,dark,"Inner Focus"
+625,dark,Pressure
+625,steel,Defiant
+625,steel,"Inner Focus"
+625,steel,Pressure
+626,normal,Reckless
+626,normal,"Sap Sipper"
+626,normal,Soundproof
+627,flying,Hustle
+627,flying,"Keen Eye"
+627,flying,"Sheer Force"
+627,normal,Hustle
+627,normal,"Keen Eye"
+627,normal,"Sheer Force"
+628,flying,Defiant
+628,flying,"Keen Eye"
+628,flying,"Sheer Force"
+628,normal,Defiant
+628,normal,"Keen Eye"
+628,normal,"Sheer Force"
+629,dark,"Big Pecks"
+629,dark,Overcoat
+629,dark,"Weak Armor"
+629,flying,"Big Pecks"
+629,flying,Overcoat
+629,flying,"Weak Armor"
+630,dark,"Big Pecks"
+630,dark,Overcoat
+630,dark,"Weak Armor"
+630,flying,"Big Pecks"
+630,flying,Overcoat
+630,flying,"Weak Armor"
+631,fire,"Flash Fire"
+631,fire,Gluttony
+631,fire,"White Smoke"
+632,bug,Hustle
+632,bug,Swarm
+632,bug,Truant
+632,steel,Hustle
+632,steel,Swarm
+632,steel,Truant
+633,dark,Hustle
+633,dragon,Hustle
+634,dark,Hustle
+634,dragon,Hustle
+635,dark,Levitate
+635,dragon,Levitate
+636,bug,"Flame Body"
+636,bug,Swarm
+636,fire,"Flame Body"
+636,fire,Swarm
+637,bug,"Flame Body"
+637,bug,Swarm
+637,fire,"Flame Body"
+637,fire,Swarm
+638,fighting,Justified
+638,steel,Justified
+639,fighting,Justified
+639,rock,Justified
+640,fighting,Justified
+640,grass,Justified
+641,flying,Defiant
+641,flying,Prankster
+641,flying,Regenerator
+642,electric,Defiant
+642,electric,Prankster
+642,electric,"Volt Absorb"
+642,flying,Defiant
+642,flying,Prankster
+642,flying,"Volt Absorb"
+643,dragon,Turboblaze
+643,fire,Turboblaze
+644,dragon,Teravolt
+644,electric,Teravolt
+645,flying,Intimidate
+645,flying,"Sand Force"
+645,flying,"Sheer Force"
+645,ground,Intimidate
+645,ground,"Sand Force"
+645,ground,"Sheer Force"
+646,dragon,Pressure
+646,dragon,Teravolt
+646,dragon,Turboblaze
+646,ice,Pressure
+646,ice,Teravolt
+646,ice,Turboblaze
+647,fighting,Justified
+647,water,Justified
+648,normal,"Serene Grace"
+648,psychic,"Serene Grace"
+649,bug,Download
+649,steel,Download
+650,grass,Bulletproof
+650,grass,Overgrow
+651,grass,Bulletproof
+651,grass,Overgrow
+652,fighting,Bulletproof
+652,fighting,Overgrow
+652,grass,Bulletproof
+652,grass,Overgrow
+653,fire,Blaze
+653,fire,Magician
+654,fire,Blaze
+654,fire,Magician
+655,fire,Blaze
+655,fire,Magician
+655,psychic,Blaze
+655,psychic,Magician
+656,water,Protean
+656,water,Torrent
+657,water,Protean
+657,water,Torrent
+658,dark,"Battle Bond"
+658,dark,Protean
+658,dark,Torrent
+658,water,"Battle Bond"
+658,water,Protean
+658,water,Torrent
+659,normal,"Cheek Pouch"
+659,normal,"Huge Power"
+659,normal,Pickup
+660,ground,"Cheek Pouch"
+660,ground,"Huge Power"
+660,ground,Pickup
+660,normal,"Cheek Pouch"
+660,normal,"Huge Power"
+660,normal,Pickup
+661,flying,"Big Pecks"
+661,flying,"Gale Wings"
+661,normal,"Big Pecks"
+661,normal,"Gale Wings"
+662,fire,"Flame Body"
+662,fire,"Gale Wings"
+662,flying,"Flame Body"
+662,flying,"Gale Wings"
+663,fire,"Flame Body"
+663,fire,"Gale Wings"
+663,flying,"Flame Body"
+663,flying,"Gale Wings"
+664,bug,Compoundeyes
+664,bug,"Friend Guard"
+664,bug,"Shield Dust"
+665,bug,"Friend Guard"
+665,bug,"Shed Skin"
+666,bug,Compoundeyes
+666,bug,"Friend Guard"
+666,bug,"Shield Dust"
+666,flying,Compoundeyes
+666,flying,"Friend Guard"
+666,flying,"Shield Dust"
+667,fire,Moxie
+667,fire,Rivalry
+667,fire,Unnerve
+667,normal,Moxie
+667,normal,Rivalry
+667,normal,Unnerve
+668,fire,Moxie
+668,fire,Rivalry
+668,fire,Unnerve
+668,normal,Moxie
+668,normal,Rivalry
+668,normal,Unnerve
+669,fairy,"Flower Veil"
+669,fairy,Symbiosis
+670,fairy,"Flower Veil"
+670,fairy,Symbiosis
+671,fairy,"Flower Veil"
+671,fairy,Symbiosis
+672,grass,"Grass Pelt"
+672,grass,"Sap Sipper"
+673,grass,"Grass Pelt"
+673,grass,"Sap Sipper"
+674,fighting,"Iron Fist"
+674,fighting,"Mold Breaker"
+674,fighting,Scrappy
+675,dark,"Iron Fist"
+675,dark,"Mold Breaker"
+675,dark,Scrappy
+675,fighting,"Iron Fist"
+675,fighting,"Mold Breaker"
+675,fighting,Scrappy
+676,normal,"Fur Coat"
+677,psychic,Infiltrator
+677,psychic,"Keen Eye"
+677,psychic,"Own Tempo"
+678,psychic,Competitive
+678,psychic,Infiltrator
+678,psychic,"Keen Eye"
+678,psychic,Prankster
+679,ghost,"No Guard"
+679,steel,"No Guard"
+680,ghost,"No Guard"
+680,steel,"No Guard"
+681,ghost,"Stance Change"
+681,steel,"Stance Change"
+682,fairy,"Aroma Veil"
+682,fairy,Healer
+683,fairy,"Aroma Veil"
+683,fairy,Healer
+684,fairy,"Sweet Veil"
+684,fairy,Unburden
+685,fairy,"Sweet Veil"
+685,fairy,Unburden
+686,dark,Contrary
+686,dark,Infiltrator
+686,dark,"Suction Cups"
+686,psychic,Contrary
+686,psychic,Infiltrator
+686,psychic,"Suction Cups"
+687,dark,Contrary
+687,dark,Infiltrator
+687,dark,"Suction Cups"
+687,psychic,Contrary
+687,psychic,Infiltrator
+687,psychic,"Suction Cups"
+688,rock,Pickpocket
+688,rock,Sniper
+688,rock,"Tough Claws"
+688,water,Pickpocket
+688,water,Sniper
+688,water,"Tough Claws"
+689,rock,Pickpocket
+689,rock,Sniper
+689,rock,"Tough Claws"
+689,water,Pickpocket
+689,water,Sniper
+689,water,"Tough Claws"
+690,poison,Adaptability
+690,poison,"Poison Point"
+690,poison,"Poison Touch"
+690,water,Adaptability
+690,water,"Poison Point"
+690,water,"Poison Touch"
+691,dragon,Adaptability
+691,dragon,"Poison Point"
+691,dragon,"Poison Touch"
+691,poison,Adaptability
+691,poison,"Poison Point"
+691,poison,"Poison Touch"
+692,water,"Mega Launcher"
+693,water,"Mega Launcher"
+694,electric,"Dry Skin"
+694,electric,"Sand Veil"
+694,electric,"Solar Power"
+694,normal,"Dry Skin"
+694,normal,"Sand Veil"
+694,normal,"Solar Power"
+695,electric,"Dry Skin"
+695,electric,"Sand Veil"
+695,electric,"Solar Power"
+695,normal,"Dry Skin"
+695,normal,"Sand Veil"
+695,normal,"Solar Power"
+696,dragon,"Strong Jaw"
+696,dragon,Sturdy
+696,rock,"Strong Jaw"
+696,rock,Sturdy
+697,dragon,"Rock Head"
+697,dragon,"Strong Jaw"
+697,rock,"Rock Head"
+697,rock,"Strong Jaw"
+698,ice,Refrigerate
+698,ice,"Snow Warning"
+698,rock,Refrigerate
+698,rock,"Snow Warning"
+699,ice,Refrigerate
+699,ice,"Snow Warning"
+699,rock,Refrigerate
+699,rock,"Snow Warning"
+700,fairy,"Cute Charm"
+700,fairy,Pixilate
+701,fighting,Limber
+701,fighting,"Mold Breaker"
+701,fighting,Unburden
+701,flying,Limber
+701,flying,"Mold Breaker"
+701,flying,Unburden
+702,electric,"Cheek Pouch"
+702,electric,Pickup
+702,electric,Plus
+702,fairy,"Cheek Pouch"
+702,fairy,Pickup
+702,fairy,Plus
+703,fairy,"Clear Body"
+703,fairy,Sturdy
+703,rock,"Clear Body"
+703,rock,Sturdy
+704,dragon,Gooey
+704,dragon,Hydration
+704,dragon,"Sap Sipper"
+705,dragon,Gooey
+705,dragon,Hydration
+705,dragon,"Sap Sipper"
+706,dragon,Gooey
+706,dragon,Hydration
+706,dragon,"Sap Sipper"
+707,fairy,Magician
+707,fairy,Prankster
+707,steel,Magician
+707,steel,Prankster
+708,ghost,Frisk
+708,ghost,Harvest
+708,ghost,"Natural Cure"
+708,grass,Frisk
+708,grass,Harvest
+708,grass,"Natural Cure"
+709,ghost,Frisk
+709,ghost,Harvest
+709,ghost,"Natural Cure"
+709,grass,Frisk
+709,grass,Harvest
+709,grass,"Natural Cure"
+710,ghost,Frisk
+710,ghost,Insomnia
+710,ghost,Pickup
+710,grass,Frisk
+710,grass,Insomnia
+710,grass,Pickup
+711,ghost,Frisk
+711,ghost,Insomnia
+711,ghost,Pickup
+711,grass,Frisk
+711,grass,Insomnia
+711,grass,Pickup
+712,ice,"Ice Body"
+712,ice,"Own Tempo"
+712,ice,Sturdy
+713,ice,"Ice Body"
+713,ice,"Own Tempo"
+713,ice,Sturdy
+714,dragon,Frisk
+714,dragon,Infiltrator
+714,dragon,Telepathy
+714,flying,Frisk
+714,flying,Infiltrator
+714,flying,Telepathy
+715,dragon,Frisk
+715,dragon,Infiltrator
+715,dragon,Telepathy
+715,flying,Frisk
+715,flying,Infiltrator
+715,flying,Telepathy
+716,fairy,"Fairy Aura"
+717,dark,"Dark Aura"
+717,flying,"Dark Aura"
+718,dragon,"Aura Break"
+718,dragon,"Power Construct"
+718,ground,"Aura Break"
+718,ground,"Power Construct"
+719,fairy,"Clear Body"
+719,rock,"Clear Body"
+720,ghost,Magician
+720,psychic,Magician
+721,fire,"Water Absorb"
+721,water,"Water Absorb"
+722,flying,"Long Reach"
+722,flying,Overgrow
+722,grass,"Long Reach"
+722,grass,Overgrow
+723,flying,"Long Reach"
+723,flying,Overgrow
+723,grass,"Long Reach"
+723,grass,Overgrow
+724,ghost,"Long Reach"
+724,ghost,Overgrow
+724,grass,"Long Reach"
+724,grass,Overgrow
+725,fire,Blaze
+725,fire,Intimidate
+726,fire,Blaze
+726,fire,Intimidate
+727,dark,Blaze
+727,dark,Intimidate
+727,fire,Blaze
+727,fire,Intimidate
+728,water,"Liquid Voice"
+728,water,Torrent
+729,water,"Liquid Voice"
+729,water,Torrent
+730,fairy,"Liquid Voice"
+730,fairy,Torrent
+730,water,"Liquid Voice"
+730,water,Torrent
+731,flying,"Keen Eye"
+731,flying,Pickup
+731,flying,"Skill Link"
+731,normal,"Keen Eye"
+731,normal,Pickup
+731,normal,"Skill Link"
+732,flying,"Keen Eye"
+732,flying,Pickup
+732,flying,"Skill Link"
+732,normal,"Keen Eye"
+732,normal,Pickup
+732,normal,"Skill Link"
+733,flying,"Keen Eye"
+733,flying,"Sheer Force"
+733,flying,"Skill Link"
+733,normal,"Keen Eye"
+733,normal,"Sheer Force"
+733,normal,"Skill Link"
+734,normal,Adaptability
+734,normal,Stakeout
+734,normal,"Strong Jaw"
+735,normal,Adaptability
+735,normal,Stakeout
+735,normal,"Strong Jaw"
+736,bug,Swarm
+737,bug,Battery
+737,electric,Battery
+738,bug,Levitate
+738,electric,Levitate
+739,fighting,"Anger Point"
+739,fighting,"Hyper Cutter"
+739,fighting,"Iron Fist"
+740,fighting,"Anger Point"
+740,fighting,"Hyper Cutter"
+740,fighting,"Iron Fist"
+740,ice,"Anger Point"
+740,ice,"Hyper Cutter"
+740,ice,"Iron Fist"
+741,fire,Dancer
+741,flying,Dancer
+742,bug,"Honey Gather"
+742,bug,"Shield Dust"
+742,bug,"Sweet Veil"
+742,fairy,"Honey Gather"
+742,fairy,"Shield Dust"
+742,fairy,"Sweet Veil"
+743,bug,"Honey Gather"
+743,bug,"Shield Dust"
+743,bug,"Sweet Veil"
+743,fairy,"Honey Gather"
+743,fairy,"Shield Dust"
+743,fairy,"Sweet Veil"
+744,rock,"Keen Eye"
+744,rock,Steadfast
+744,rock,"Vital Spirit"
+745,rock,"Keen Eye"
+745,rock,"Keen Eye"
+745,rock,"No Guard"
+745,rock,"Sand Rush"
+745,rock,Steadfast
+745,rock,"Vital Spirit"
+746,water,Schooling
+747,poison,Limber
+747,poison,Merciless
+747,poison,Regenerator
+747,water,Limber
+747,water,Merciless
+747,water,Regenerator
+748,poison,Limber
+748,poison,Merciless
+748,poison,Regenerator
+748,water,Limber
+748,water,Merciless
+748,water,Regenerator
+749,ground,"Inner Focus"
+749,ground,"Own Tempo"
+749,ground,Stamina
+750,ground,"Inner Focus"
+750,ground,"Own Tempo"
+750,ground,Stamina
+751,bug,"Water Absorb"
+751,bug,"Water Bubble"
+751,water,"Water Absorb"
+751,water,"Water Bubble"
+752,bug,"Water Absorb"
+752,bug,"Water Bubble"
+752,water,"Water Absorb"
+752,water,"Water Bubble"
+753,grass,Contrary
+753,grass,"Leaf Guard"
+754,grass,Contrary
+754,grass,"Leaf Guard"
+755,fairy,"Effect Spore"
+755,fairy,Illuminate
+755,fairy,"Rain Dish"
+755,grass,"Effect Spore"
+755,grass,Illuminate
+755,grass,"Rain Dish"
+756,fairy,"Effect Spore"
+756,fairy,Illuminate
+756,fairy,"Rain Dish"
+756,grass,"Effect Spore"
+756,grass,Illuminate
+756,grass,"Rain Dish"
+757,fire,Corrosion
+757,fire,Oblivious
+757,poison,Corrosion
+757,poison,Oblivious
+758,fire,Corrosion
+758,fire,Oblivious
+758,poison,Corrosion
+758,poison,Oblivious
+759,fighting,"Cute Charm"
+759,fighting,Fluffy
+759,fighting,Klutz
+759,normal,"Cute Charm"
+759,normal,Fluffy
+759,normal,Klutz
+760,fighting,Fluffy
+760,fighting,Klutz
+760,fighting,Unnerve
+760,normal,Fluffy
+760,normal,Klutz
+760,normal,Unnerve
+761,grass,"Leaf Guard"
+761,grass,Oblivious
+761,grass,"Sweet Veil"
+762,grass,"Leaf Guard"
+762,grass,Oblivious
+762,grass,"Sweet Veil"
+763,grass,"Leaf Guard"
+763,grass,"Queenly Majesty"
+763,grass,"Sweet Veil"
+764,fairy,"Flower Veil"
+764,fairy,"Natural Cure"
+764,fairy,Triage
+765,normal,"Inner Focus"
+765,normal,Symbiosis
+765,normal,Telepathy
+765,psychic,"Inner Focus"
+765,psychic,Symbiosis
+765,psychic,Telepathy
+766,fighting,Defiant
+766,fighting,Receiver
+767,bug,"Wimp Out"
+767,water,"Wimp Out"
+768,bug,"Emergency Exit"
+768,water,"Emergency Exit"
+769,ghost,"Sand Veil"
+769,ghost,"Water Compaction"
+769,ground,"Sand Veil"
+769,ground,"Water Compaction"
+770,ghost,"Sand Veil"
+770,ghost,"Water Compaction"
+770,ground,"Sand Veil"
+770,ground,"Water Compaction"
+771,water,"Innards Out"
+771,water,Unaware
+772,normal,"Battle Armor"
+773,normal,"RKS System"
+774,flying,"Shields Down"
+774,rock,"Shields Down"
+775,normal,Comatose
+776,dragon,"Shell Armor"
+776,fire,"Shell Armor"
+777,electric,"Iron Barbs"
+777,electric,Lightningrod
+777,electric,Sturdy
+777,steel,"Iron Barbs"
+777,steel,Lightningrod
+777,steel,Sturdy
+778,fairy,Disguise
+778,ghost,Disguise
+779,psychic,Dazzling
+779,psychic,"Strong Jaw"
+779,psychic,"Wonder Skin "
+779,water,Dazzling
+779,water,"Strong Jaw"
+779,water,"Wonder Skin "
+780,dragon,Berserk
+780,dragon,"Cloud Nine"
+780,dragon,"Sap Sipper"
+780,normal,Berserk
+780,normal,"Cloud Nine"
+780,normal,"Sap Sipper"
+781,ghost,Steelworker
+781,grass,Steelworker
+782,dragon,Bulletproof
+782,dragon,Overcoat
+782,dragon,Soundproof
+783,dragon,Bulletproof
+783,dragon,Overcoat
+783,dragon,Soundproof
+783,fighting,Bulletproof
+783,fighting,Overcoat
+783,fighting,Soundproof
+784,dragon,Bulletproof
+784,dragon,Overcoat
+784,dragon,Soundproof
+784,fighting,Bulletproof
+784,fighting,Overcoat
+784,fighting,Soundproof
+785,electric,"Electric Surge"
+785,electric,Telepathy
+785,fairy,"Electric Surge"
+785,fairy,Telepathy
+786,fairy,"Psychic Surge"
+786,fairy,Telepathy
+786,psychic,"Psychic Surge"
+786,psychic,Telepathy
+787,fairy,"Grassy Surge"
+787,fairy,Telepathy
+787,grass,"Grassy Surge"
+787,grass,Telepathy
+788,fairy,"Misty Surge"
+788,fairy,Telepathy
+788,water,"Misty Surge"
+788,water,Telepathy
+789,psychic,Unaware
+790,psychic,Sturdy
+791,psychic,"Full Metal Body"
+791,steel,"Full Metal Body"
+792,ghost,"Shadow Shield"
+792,psychic,"Shadow Shield"
+793,poison,"Beast Boost"
+793,rock,"Beast Boost"
+794,bug,"Beast Boost"
+794,fighting,"Beast Boost"
+795,bug,"Beast Boost"
+795,fighting,"Beast Boost"
+796,electric,"Beast Boost"
+797,flying,"Beast Boost"
+797,steel,"Beast Boost"
+798,grass,"Beast Boost"
+798,steel,"Beast Boost"
+799,dark,"Beast Boost"
+799,dragon,"Beast Boost"
+800,psychic,"Prism Armor"
+801,fairy,Soul-Heart
+801,steel,Soul-Heart

@@ -1,0 +1,9 @@
+-- thirdNormalForm
+.read third_normal_form/pokemon_name.sql
+.read third_normal_form/pokemon_info.sql
+.read third_normal_form/pokemon_battle_stats.sql
+.read third_normal_form/pokemon_details.sql
+.read third_normal_form/pokemon_stats.sql
+.read third_normal_form/pokemon_streweak.sql
+.read third_normal_form/pokemon_typing.sql
+.read third_normal_form/pokemon_ability.sql
