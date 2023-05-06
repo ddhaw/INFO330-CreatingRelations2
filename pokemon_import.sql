@@ -1,6 +1,6 @@
 .mode csv
 .import pokemon.csv imported_pokemon_data
-.read firstNormalForm.sql
-.read secondNormalForm.sql
-.read thirdNormalForm.sql
+.read 1NF.sql
+.read 2NF.sql
+.read 3NF.sql
 .read extra_credit/add_pokemon.sql
